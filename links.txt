@@ -1,0 +1,6 @@
+DOM Manipulation: 
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+
+
+What is DOM?: 
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
